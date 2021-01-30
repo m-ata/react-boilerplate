@@ -1,2 +1,2 @@
 # react-boilerplate
-A basic react boilerplate with typescript, babel and webpack with basic loaders.
+A basic react boilerplate by using webpack and typescript with some basic loaders.
